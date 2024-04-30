@@ -21,6 +21,7 @@ class AnimatedHoverIndicator extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return AnimatedContainer(
+      alignment: Alignment.bottomCenter,
       width: isHover ? width : 0,
       height: height,
       color: indicatorColor,
@@ -29,7 +30,6 @@ class AnimatedHoverIndicator extends StatelessWidget {
     );
   }
 }
-
 
 class AnimatedHoverIndicator2 extends StatelessWidget {
   const AnimatedHoverIndicator2({

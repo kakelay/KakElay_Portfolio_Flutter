@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:kakelay_portfolio/presentation/widgets/buttons/nimbus_button.dart';
 import 'package:kakelay_portfolio/presentation/widgets/buttons/social_button.dart';
 import 'package:kakelay_portfolio/presentation/widgets/empty.dart';
@@ -78,12 +77,19 @@ class _NavSectionWebState extends State<NavSectionWeb> {
           children: [
             SizedBox(width: logoSpaceLeft),
 
-            /// log for nav bar for website layout
+            ///KakElay
 
-            const Icon(
-              Icons.dark_mode,
-              color: Colors.black,
-              size: 50,
+            Container(
+              width: 80.0,
+              height: 80.0,
+              decoration: const BoxDecoration(
+                image: DecorationImage(
+                    fit: BoxFit.cover,
+                    image: NetworkImage(
+                        'https://avatars.githubusercontent.com/u/110383694?v=4')),
+                borderRadius: BorderRadius.all(Radius.circular(50)),
+                color: Colors.redAccent,
+              ),
             ),
 
             SizedBox(width: logoSpaceRight),

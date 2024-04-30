@@ -18,7 +18,7 @@ class StringConst {
   static const String CONTACT_ME = "Contact Me";
   static const String DEV_EMAIL = "kakelay18052002@gmail.com";
   static const String EMAIL_URL = "mailto:<$DEV_EMAIL>?subject=&body=";
-   
+
   //Header Section
   static const String FIRST_NAME = "Elay";
   static const String INTRO = "Hi! I'm KakElay -";
@@ -99,9 +99,10 @@ class StringConst {
   //Stats Section
   static const String HAPPY_CLIENTS = "Happy Clients";
   static const String HAPPY_CLIENTS_NUM = "120";
-  static const String YEARS_OF_EXPERIENCE = "Years of Experience";
+  static const String YEARS_OF_WORK_EXPERIENCE =
+      "Years of Experience Private Company ";
   static const String YEARS_OF_EXPERIENCE_NUM = "100";
-  static const String INCREDIBLE_PROJECTS = "Incredible Projects";
+  static const String VOLUNTEER = "Volunteer Mobile App At E-robot";
   static const String INCREDIBLE_PROJECTS_NUM = "230";
   static const String AWARD_WINNING = "Award Winning";
   static const String AWARD_WINNING_NUM = "18";
@@ -202,6 +203,4 @@ class StringConst {
   static const String GITHUB_URL = "https://github.com/";
   static const String FACEBOOK_URL = "https://facebook.com/";
   static const String TWITTER_URL = "http://twitter.com/";
- 
- 
 }
