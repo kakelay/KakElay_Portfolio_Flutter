@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:kakelay_portfolio/presentation/widgets/selected_indicator.dart';
 import 'package:kakelay_portfolio/values/values.dart';
 
-
 import '../layout/adaptive.dart';
 import 'animated_indicator.dart';
 

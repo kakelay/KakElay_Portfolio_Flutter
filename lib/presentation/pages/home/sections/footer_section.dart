@@ -6,7 +6,6 @@ import 'package:kakelay_portfolio/presentation/widgets/buttons/nimbus_button.dar
 import 'package:kakelay_portfolio/presentation/widgets/buttons/nimbus_button_link.dart';
 import 'package:kakelay_portfolio/presentation/widgets/content_area.dart';
 import 'package:kakelay_portfolio/presentation/widgets/spaces.dart';
-import 'package:kakelay_portfolio/utils/functions.dart';
 import 'package:kakelay_portfolio/values/values.dart';
 
 import 'package:responsive_builder/responsive_builder.dart';
@@ -21,6 +20,11 @@ List<FooterItem> footerItems = [
     title: StringConst.MAIL_ME + ":",
     subtitle: StringConst.DEV_EMAIL_2,
     iconData: FontAwesomeIcons.paperPlane,
+  ),
+  FooterItem(
+    title: StringConst.TELEGRAM_ME + ":",
+    subtitle: StringConst.TELEGRAM,
+    iconData: FontAwesomeIcons.telegram,
   ),
   FooterItem(
     title: StringConst.FOLLOW_ME_2 + ":",

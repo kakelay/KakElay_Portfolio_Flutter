@@ -96,10 +96,11 @@ class Data {
         iconData: Icons.pages_outlined), //not being used
   ];
   static List<StatItemData> statItemsData = [
-    StatItemData(value: 120, subtitle: StringConst.HAPPY_CLIENTS),
-    StatItemData(value: 100, subtitle: StringConst.YEARS_OF_EXPERIENCE),
-    StatItemData(value: 230, subtitle: StringConst.INCREDIBLE_PROJECTS),
-    StatItemData(value: 18, subtitle: StringConst.AWARD_WINNING),
+    // StatItemData(value: 120, subtitle: StringConst.HAPPY_CLIENTS),
+    StatItemData(value: 11, subtitle: StringConst.VOLUNTEER),
+    StatItemData(value: 1, subtitle: StringConst.YEARS_OF_WORK_EXPERIENCE),
+
+    StatItemData(value: 1, subtitle: StringConst.AWARD_WINNING),
   ];
 
   static List<ProjectCategoryData> projectCategories = [
