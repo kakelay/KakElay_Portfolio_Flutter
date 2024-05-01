@@ -97,10 +97,10 @@ class Data {
   ];
   static List<StatItemData> statItemsData = [
     // StatItemData(value: 120, subtitle: StringConst.HAPPY_CLIENTS),
-    StatItemData(value: 1, subtitle: StringConst.VOLUNTEER),
+    StatItemData(value: 11, subtitle: StringConst.VOLUNTEER),
     StatItemData(value: 1, subtitle: StringConst.YEARS_OF_WORK_EXPERIENCE),
 
-    StatItemData(value: 18, subtitle: StringConst.AWARD_WINNING),
+    StatItemData(value: 1, subtitle: StringConst.AWARD_WINNING),
   ];
 
   static List<ProjectCategoryData> projectCategories = [

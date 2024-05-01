@@ -24,7 +24,8 @@ class StringConst {
   static const String INTRO = "Hi! I'm KakElay -";
   static const String POSITION = "Flutter Developer";
   static const String ABOUT_DEV =
-      "Product Designer and Digital Creative Director working in design field for 13 years so far, specialized in UI/UX, Branding and digital designs.";
+      "I'm a dedicated Flutter developer with several years of experience working in the software development industry. My expertise lies in building high-quality mobile applications for various clients, focusing on delivering excellent user experiences. I have a strong background in software development methodologies and a passion for learning new technologies. In my previous roles, I have successfully collaborated with cross-functional teams to deliver projects on time and exceed client expectations. I thrive in fast-paced environments and enjoy tackling complex problems to create innovative solutions.";
+
   static const String ABOUT_ME_1 =
       "Product Designer and Digital Creative Director working in design field for";
   static const String ABOUT_ME_2 =
@@ -32,10 +33,11 @@ class StringConst {
   static const String DOWNLOAD_CV = "Download CV";
   static const String EMAIL = "Email";
   static const String DEV_EMAIL_2 = "kakelay18052002@gmail.com";
+  static const String TELEGRAM = "@elaydev";
   static const String GItHUB = "GitHub";
   static const String GItHUB_ID = "https://github.com/kakelay";
   static const String HIRE_ME_NOW = "Hire Me Now";
-  static const String UI_UX = "UI/UX Designer";
+  static const String UI_UX = "Flutter Developer";
   static const String UI_UX_DESC = "creative websites for you";
   static const String PHOTOGRAPHER = "Photographer";
   static const String PHOTOGRAPHER_DESC = "Awesome photo & video";
@@ -77,19 +79,19 @@ class StringConst {
   static const String SKILLS_TITLE_2 = "Skills Include";
   static const String SKILLS_DESC =
       "These are the words we live by in everything we do. Every story we tell, every brand we build, and every interaction we create must not only look beautiful.";
-  static const String TOOLS_1_NAME = "Photoshop";
-  static const String TOOLS_1_PROFICIENCY = "80%";
-  static const String TOOLS_2_NAME = "Illustrator";
-  static const String TOOLS_2_PROFICIENCY = "90%";
-  static const String TOOLS_3_NAME = "Sketch";
-  static const String TOOLS_3_PROFICIENCY = "70%";
-  static const String SKILLS_1 = "UI/UX Design";
+  static const String TOOLS_1_NAME = "Figma";
+  static const String TOOLS_1_PROFICIENCY = "60%";
+  static const String TOOLS_2_NAME = "Fluttter";
+  static const String TOOLS_2_PROFICIENCY = "80%";
+  static const String TOOLS_3_NAME = "Website";
+  static const String TOOLS_3_PROFICIENCY = "40%";
+  static const String SKILLS_1 = "Flutter Developer";
   static const String SKILLS_1_DESC =
       "We believe direct collaboration with our clients is essential to bringing unique";
-  static const String SKILLS_2 = "Graphic Design";
+  static const String SKILLS_2 = "Flutte with API";
   static const String SKILLS_2_DESC =
       "We believe direct collaboration with our clients is essential to bringing unique";
-  static const String SKILLS_3 = "Motion Design";
+  static const String SKILLS_3 = "Flutter Design";
   static const String SKILLS_3_DESC =
       "We believe direct collaboration with our clients is essential to bringing unique";
   static const String SKILLS_4 = "Photo Retouch";
@@ -98,14 +100,14 @@ class StringConst {
 
   //Stats Section
   static const String HAPPY_CLIENTS = "Happy Clients";
-  static const String HAPPY_CLIENTS_NUM = "120";
+  static const String HAPPY_CLIENTS_NUM = "3";
   static const String YEARS_OF_WORK_EXPERIENCE =
       "Years of Experience Private Company ";
-  static const String YEARS_OF_EXPERIENCE_NUM = "100";
-  static const String VOLUNTEER = "Volunteer Mobile App At E-robot";
+  static const String YEARS_OF_EXPERIENCE_NUM = "1";
+  static const String VOLUNTEER = "Month Volunteer Mobile App at E-robot";
   static const String INCREDIBLE_PROJECTS_NUM = "230";
   static const String AWARD_WINNING = "Award Winning";
-  static const String AWARD_WINNING_NUM = "18";
+  static const String AWARD_WINNING_NUM = "1";
 
   //Projects Section
   static const String MEET_MY_PROJECTS = "Meet My Projects";
@@ -118,11 +120,11 @@ class StringConst {
   static const String PACKAGING = "Packaging";
   static const String PHOTOGRAPHY = "Photography";
   static const String WEB_DESIGN = "Web Design";
-  static const String PORTFOLIO_1_TITLE = "Urban Experience";
-  static const String PORTFOLIO_2_TITLE = "Graphic Design";
-  static const String PORTFOLIO_3_TITLE = "Launch Product";
-  static const String PORTFOLIO_4_TITLE = "3D Animation";
-  static const String PORTFOLIO_5_TITLE = "Collect Idea";
+  static const String PORTFOLIO_1_TITLE = "NodeJs 40%";
+  static const String PORTFOLIO_2_TITLE = "Figma Design 70%";
+  static const String PORTFOLIO_3_TITLE = "Java 50%";
+  static const String PORTFOLIO_4_TITLE = "NestJs 30 %";
+  static const String PORTFOLIO_5_TITLE = "Vue 40%";
   static const String PORTFOLIO_6_TITLE = "Company Branding";
 
   //Awards & Section
@@ -183,8 +185,9 @@ class StringConst {
   static const String PHONE_ME = "Phone Me";
   static const String PHONE_NUMBER = "+855 10 600 261";
   static const String MAIL_ME = "Mail Me";
+  static const String TELEGRAM_ME = "Telegram Me";
+
   static const String FOLLOW_ME_2 = "Follow Me";
-  static const String FOLLOW_ME_2_URL = "behance.net/nimbus2000";
   static const String RIGHTS_RESERVED = "© 2021 All rights reserved";
   static const String BUILT_BY = "Built with Flutter by";
   static const String DAVID_COBBINA = "David Cobbina";
@@ -195,12 +198,13 @@ class StringConst {
   static const String FIND_ME = "Find me on..";
 
   //URL Links
-  static const String WEB_GENIUS_LAB_URL = "https://webgeniuslab.net/";
+  static const String WEB_GENIUS_LAB_URL = "https://github.com/kakelay";
   static const String BEHANCE_URL = "https://www.behance.net/";
   static const String DRIBBLE_URL = "https://dribbble.com/";
   static const String LINKED_IN_URL = "https:linkedin.com/in/";
   static const String INSTAGRAM_URL = "https://www.instagram.com/";
-  static const String GITHUB_URL = "https://github.com/";
-  static const String FACEBOOK_URL = "https://facebook.com/";
+  static const String GITHUB_URL = "https://github.com/kakelay";
+  static const String FACEBOOK_URL =
+      "https://www.facebook.com/profile.php?id=100058188477258";
   static const String TWITTER_URL = "http://twitter.com/";
 }
